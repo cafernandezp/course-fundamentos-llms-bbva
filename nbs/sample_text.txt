@@ -1,0 +1,78 @@
+Reporte Interno de Incidencias y Comunicaciones - Febrero 2024
+
+1. Resumen de Casos y Reportes de Clientes:
+Durante el mes de febrero de 2024, se han registrado múltiples comunicaciones de clientes que han reportado incidencias,
+sugerencias y solicitudes de información. A continuación se detallan algunos casos representativos:
+
+Caso 1: Juan Pérez
+El señor Juan Pérez, cuyo correo electrónico es juan.perez@example.com y número de teléfono 600-123-456,
+con cuenta bancaria ES76 1234 5678 9012 3456 7890, reportó una anomalía en su estado de cuenta. Según su reporte,
+se efectuó un cargo no autorizado de 500,00 euros el 2024-02-05, que no correspondía a ninguna transacción realizada.
+Asimismo, indicó que al comunicarse con el centro de atención se le proporcionó un número de seguimiento: 20240205JP001,
+lo cual generó confusión respecto a la resolución del caso.
+
+Caso 2: María García
+La señora María García (maria.garcia@example.com), con cuenta bancaria ES91 2345 6789 0123 4567 8901 y teléfono 600-234-567,
+presentó una queja en relación con la deducción errónea de 75,50 euros en su tarjeta de crédito el día 2024-02-10.
+En su comunicación, también incluyó su dirección: Calle de la Libertad 45, 28004 Madrid, y mencionó que había intentado
+contactar a soporte sin recibir respuesta satisfactoria. El caso fue asignado el código MG20240210.
+
+Caso 3: Luis Rodríguez
+El cliente Luis Rodríguez, identificado con correo luis.rodriguez@example.com y número de cuenta ES65 3456 7890 1234 5678 9012,
+informó sobre un error en el registro de una transferencia de 1.250,00 euros realizada el 2024-02-15. Su reporte incluye
+también el número de referencia LR20240215TRF. Durante la comunicación, mencionó haber recibido llamadas desde el número
+900-456-789, lo que generó incertidumbre sobre la autenticidad del contacto.
+
+2. Registro de Transacciones y Comunicaciones Adicionales:
+Se documentan a continuación otros reportes relevantes que contienen información variada y crítica:
+
+- Caso 4: Ana Martínez
+La señora Ana Martínez (ana.martinez@example.com), con cuenta bancaria ES58 4567 8901 2345 6789 0123 y teléfono 600-345-678,
+reportó una discrepancia en el cálculo de los intereses generados en su cuenta de ahorro. Indicó haber observado un exceso
+de 32,15 euros el 2024-02-20. Se le proporcionó el código de seguimiento AM20240220INT para dar continuidad al caso.
+
+- Caso 5: Jorge González
+El cliente Jorge González, a través del correo jorge.gonzalez@example.com, manifestó su inconformidad por un cargo
+duplicado de 120,00 euros en su tarjeta de débito, correspondiente a la transacción realizada el 2024-02-22. Con cuenta
+bancaria ES47 5678 9012 3456 7890 1234 y teléfono 600-456-789, Jorge también indicó que recibió una notificación en su
+aplicación móvil identificada como JG20240222DBT.
+
+3. Notas Internas y Seguimientos:
+Además de los casos de clientes, se han generado varias notas internas que documentan incidencias y acciones de seguimiento:
+
+- Nota Interna 1:
+El departamento de atención al cliente reportó una incidencia el 2024-02-07 relacionada con una anomalía en el sistema
+de autenticación. Los técnicos, liderados por el ingeniero Carlos Ramírez (carlos.ramirez@example.com), con extensión 7890,
+identificaron una vulnerabilidad en la verificación de identidad. El número de caso asignado fue IR20240207-CR.
+
+- Nota Interna 2:
+El sistema de conciliación bancaria presentó una discrepancia el 2024-02-12. La supervisora Laura Fernández (laura.fernandez@example.com)
+informó que la diferencia ascendía a 2.350,75 euros, afectando a varias cuentas, entre ellas la cuenta ES82 6789 0123 4567 8901 2345
+perteneciente al cliente Pedro Sánchez. Este caso se marcó con el código LF20240212-CS.
+
+- Nota Interna 3:
+Durante una revisión de seguridad realizada el 2024-02-18, el equipo de TI detectó accesos inusuales en el sistema.
+Se observó actividad sospechosa en la cuenta ES93 7890 1234 5678 9012 3456, asociada a la usuaria Carmen López (carmen.lopez@example.com).
+El análisis reveló 5 intentos fallidos de inicio de sesión desde la IP 192.168.1.100. El incidente fue documentado con el identificador
+CL20240218-SC.
+
+4. Comunicaciones Externas y Reportes de Soporte:
+El reporte también incluye comunicaciones externas y solicitudes de soporte que contienen datos críticos:
+
+- Caso 6: Reporte Externo de Incidencia
+El cliente Andrés Núñez (andres.nunez@example.com), con cuenta bancaria ES39 8901 2345 6789 0123 4567 y teléfono 600-567-890,
+comunicó un problema con la activación de su nueva tarjeta de débito el 2024-02-25. Según su reporte, el inconveniente se
+debió a una falta de sincronización entre el sistema de emisión y el portal de usuario. Se asignó el código AN20240225-TDK.
+
+- Caso 7: Seguimiento de Solicitud de Información
+La clienta Sofía Morales (sofia.morales@example.com), titular de la cuenta ES24 9012 3456 7890 1234 5678, realizó una consulta
+el 2024-02-28 sobre el proceso de cálculo de comisiones en su cuenta de inversión. Durante la atención, se le proporcionó el número
+de referencia SM20240228-INV, y su consulta quedó registrada en el sistema de seguimiento interno.
+
+5. Observaciones Finales y Conclusiones:
+El presente registro de incidencias y comunicaciones evidencia la diversidad y complejidad de los reportes recibidos durante febrero de 2024.
+Se han procesado más de 150 reportes, con un monto total en disputa que supera los 15.000,00 euros. Las áreas de mejora identificadas incluyen:
+- Optimización del sistema de autenticación.
+- Revisión de procesos de conciliación bancaria.
+- Actualización de protocolos de seguridad para prevenir accesos no autorizados.
+- Mejora en la atención y seguimiento a través de canales digitales.
